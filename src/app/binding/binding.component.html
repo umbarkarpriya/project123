@@ -1,0 +1,14 @@
+<h4>1.Data Binding</h4>
+
+<h6>{{Samplestring}}</h6>
+<h5>Attribute Binding</h5>
+
+<a [href] = "link">Go to Facebook</a>
+
+Enter Your name  : <input type="text" name="fullName" [(ngModel)]="fullName" >
+
+Your name is {{fullName}}
+
+<br><br>
+<h5>Event Binding</h5>
+<button class="btn-btn-primary" (click)="showElement()">Show Data</button>

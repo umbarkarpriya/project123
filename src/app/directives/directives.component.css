@@ -1,0 +1,24 @@
+
+.test1{
+    border: 1px solid black;
+    color: red;
+    background-color: azure;
+}
+
+.test2{
+    border: 1px solid blue;
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+
+.test3{
+    border: 1px solid black;
+    color: red;
+    background-color: pink;
+}
+
+.test4{
+    border: 1px solid blue;
+    color: Pink;
+    background-color: blanchedalmond;
+}
